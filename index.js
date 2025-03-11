@@ -1,7 +1,7 @@
 import { readFileSync } from "fs"
 import axios from "axios";
 
-const configFile = require('./config.json');
+import configFile from "./config.json" with {type: 'json'};
 
 function randomFrom(array) {
     return array[Math.floor(Math.random() * array.length)];
