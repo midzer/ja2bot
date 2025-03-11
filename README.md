@@ -1,6 +1,5 @@
 The Mastodon Bot is available at 
-* 🇩🇪 https://social.tchncs.de/@monkeyislandbot
-* 🇺🇸 https://social.tchncs.de/@monkeyislandbot_en
+* https://social.tchncs.de/@ja2bot
   
 # monkeyislandbot
 
